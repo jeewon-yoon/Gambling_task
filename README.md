@@ -1,5 +1,5 @@
 ### <새로운 도박과제 설계를 통한 참가자들의 수행 개선> 
-**프로젝트 상세 소개:** [포트폴리오 링크](https://drive.google.com/file/d/1gaaUSv0DohvbZj0okcUg6aW6-UAgo_UI/view?usp=drive_link)
+**프로젝트 상세 소개:** [포트폴리오 링크](https://drive.google.com/file/d/1gaaUSv0DohvbZj0okcUg6aW6-UAgo_UI/view?usp=drive_link)    
 <br>
 ### 프로젝트 소개 
 기존 도박과제에서 참가자들은 시간이 지남에 따라 4개의 카드 세트에서 보상/손실 점수가 나올 확률을 간접적으로 학습하며 좋은 카드를 선택하는 비율이 높아지는 경향을 보이지만 전체적으로 좋은 카드를 선택하는 비율은 절반도 안된다.    
