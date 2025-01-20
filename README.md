@@ -1,4 +1,4 @@
-### <새로운 도박과제 설계를 통한 참가자들의 수행 개선> 
+## 새로운 도박과제 설계를 통한 참가자들의 수행 개선
 **프로젝트 상세 소개:** [포트폴리오 링크](https://drive.google.com/file/d/1gaaUSv0DohvbZj0okcUg6aW6-UAgo_UI/view?usp=drive_link)    
 <br>
 
