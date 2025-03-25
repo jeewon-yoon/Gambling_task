@@ -3,11 +3,12 @@
 <br>
 
 # **프로젝트 소개**   
+## 도박과제란 [링크]
+<img width="402" alt="image" src="https://github.com/user-attachments/assets/6c18d9a0-9cd8-4766-9e5c-1cc8c41c9586" /> 
+<br>
 기존 도박과제에서 참가자들은 시간이 지남에 따라 4개의 카드 세트에서 보상/손실 점수가 나올 확률을 간접적으로 학습하며 좋은 카드를 선택하는 비율이 높아지는 경향을 보이지만 전체적으로 좋은 카드를 선택하는 비율은 절반도 안된다.    
 <br>
-<img width="402" alt="image" src="https://github.com/user-attachments/assets/6c18d9a0-9cd8-4766-9e5c-1cc8c41c9586" /> <br>
 <img width="277" alt="image" src="https://github.com/user-attachments/assets/b6200a04-fa43-4e66-9036-60231f951599" />
-
 <br>
 
 # **데이터셋**  
