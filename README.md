@@ -1,15 +1,17 @@
 # 새로운 도박과제 설계를 통한 참가자들의 수행 개선
+## 도박과제 소개 
+<img width="402" alt="image" src="https://github.com/user-attachments/assets/6c18d9a0-9cd8-4766-9e5c-1cc8c41c9586" />     
+<br><br> 
+
 **프로젝트 상세 소개:** [포트폴리오 링크](https://drive.google.com/file/d/1gaaUSv0DohvbZj0okcUg6aW6-UAgo_UI/view?usp=drive_link)    
 <br>
 
-# **프로젝트 소개**   
-## 도박과제란 [링크]
-<img width="402" alt="image" src="https://github.com/user-attachments/assets/6c18d9a0-9cd8-4766-9e5c-1cc8c41c9586" /> 
-<br>
+# **프로젝트 배경**   
 기존 도박과제에서 참가자들은 시간이 지남에 따라 4개의 카드 세트에서 보상/손실 점수가 나올 확률을 간접적으로 학습하며 좋은 카드를 선택하는 비율이 높아지는 경향을 보이지만 전체적으로 좋은 카드를 선택하는 비율은 절반도 안된다.    
 <br>
 <img width="277" alt="image" src="https://github.com/user-attachments/assets/b6200a04-fa43-4e66-9036-60231f951599" />
 <br>
+
 
 # **데이터셋**  
 심리학 학부생 112명 모집. <br>
